@@ -84,4 +84,5 @@ For this project you will be given a container which you can use to solve the ta
 -   The first line of all your Bash scripts should be exactly `#!/usr/bin/env bash`
 -   The second line of all your Bash scripts should be a comment explaining what is the script doing
 ## Contribuitor
+
 - Samuel Trujillo Rodríguez
