@@ -1,4 +1,4 @@
 # ssh config
-Host 35.237.1.254
-Identityfile ~/.ssh/holberton
+Host 34.73.255.122
+Identityfile ~/.ssh/school
 PasswordAuthentication no
